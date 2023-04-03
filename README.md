@@ -1,2 +1,2 @@
-# Food-Ordering-System
-This project is entitled Food Ordering System. This is a web-based application developed in Python and Django Framework.
+# Online-Food-Order-System-
+The Food Order System is an E-commerce web application developed using Django Framework. It contains features such as login/signup, view all food items, add food items to card and finally checkout using payment systems.
